@@ -1,0 +1,4 @@
+#Sun Jun 03 23:55:30 CST 2018
+base.0=E\:\\middleExp\\NotePad-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+renamed.0=classes.dex
+file.0=E\:\\middleExp\\NotePad-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5\\classes.dex
